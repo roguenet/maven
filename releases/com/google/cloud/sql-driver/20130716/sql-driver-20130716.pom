@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <repositories>
+    <repository>
+      <id>roguenet</id>
+      <url>https://raw.github.com/roguenet/maven/master</url>
+    </repository>
+  </repositories>
+
+  <name>Google's CloudSQL Driver</name>
+  <description>The google_sql.jar file from the CloudSQL command-line utility</description>
+
+  <groupId>com.google.cloud</groupId>
+  <artifactId>sql-driver</artifactId>
+  <version>20130716</version>
+</project>
