@@ -4,7 +4,7 @@
   <repositories>
     <repository>
       <id>roguenet</id>
-      <url>https://raw.github.com/roguenet/maven/master</url>
+      <url>https://raw.github.com/roguenet/maven/master/releases</url>
     </repository>
   </repositories>
 
